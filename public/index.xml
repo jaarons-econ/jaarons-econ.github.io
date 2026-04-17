@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Congo</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Congo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>//localhost:1313/cv/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/cv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Josh Aarons</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>//localhost:1313/research/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>//localhost:1313/teaching/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
