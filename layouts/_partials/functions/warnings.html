@@ -1,0 +1,6 @@
+{{- if and (not .Site.Params.colorScheme) (not site.Params.colorScheme) -}}
+  {{- warnf "[CONGO] The `colorScheme` param is not set in params.toml - please check the theme documentation." -}}
+{{- end -}}
+{{- if site.Params.showAppearanceSwitcher -}}
+  {{- warnf "[CONGO] The `showAppearanceSwitcher` param has been renamed to `showColorSchemeToggle` - please update your params.toml." -}}
+{{- end -}}
