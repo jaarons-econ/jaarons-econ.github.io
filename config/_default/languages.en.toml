@@ -13,11 +13,11 @@ title = "Josh Aarons"
   # description = "My personal website"
 
 [params.author]
-  # name = "Josh Aarons"
-  # image = "img/author.jpg"
-  # headline = "Department of Economics -- University of California San Diego "
-  # bio = "Welcome to my personal webpage. I am currently a PhD candidate at UC San Diego. I am an applied microeconomist who studies environmental economics."
-  # links = [
-  #   { email = "mailto:jaarons@ucsd.edu" },
-  #   { github = "https://github.com/jaarons-econ" },
-  # ]
+  name = "Josh Aarons"
+  image = "img/author.jpg"
+  headline = "Department of Economics -- University of California San Diego "
+
+  links = [
+    { email = "mailto:jaarons@ucsd.edu" },
+    { github = "https://github.com/jaarons-econ" },
+  ]

@@ -1,0 +1,15 @@
+main#main-content article > section.not-prose picture,
+main#main-content article > section.not-prose picture img {
+  width: 14rem !important;
+  max-width: 14rem;
+  height: auto;
+}
+
+.prose p {
+  text-align: left;
+}
+
+.prose h2,
+.prose h3 {
+  text-align: left;
+}

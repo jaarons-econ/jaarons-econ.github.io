@@ -11,13 +11,13 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About"
-  pageRef = "about"
+  name = "Research"
+  pageRef = "research"
   weight = 10
 
 [[main]]
-  name = "Research"
-  pageRef = "research"
+  name = "Teaching"
+  pageRef = "teaching"
   weight = 20
 
 [[main]]
@@ -25,10 +25,6 @@
   pageRef = "cv"
   weight = 30
 
-[[main]]
-  name = "Teaching"
-  pageRef = "teaching"
-  weight = 40
 
 [[main]]
   identifier = "search"
