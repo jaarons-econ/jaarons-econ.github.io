@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Josh Aarons"
+title = "Joshua Aarons"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -13,7 +13,7 @@ title = "Josh Aarons"
   # description = "My personal website"
 
 [params.author]
-  name = "Josh Aarons"
+  name = "Joshua Aarons"
   image = "img/author.jpg"
   headline = "Department of Economics -- University of California San Diego "
 
