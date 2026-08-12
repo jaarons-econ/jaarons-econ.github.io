@@ -9,6 +9,10 @@ main#main-content article > section.not-prose picture img {
   text-align: left;
 }
 
+.prose a {
+  color: #1d4ed8;
+}
+
 .prose h2,
 .prose h3 {
   text-align: left;
