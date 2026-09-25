@@ -1,4 +1,4 @@
-module github.com/jaarons-econ/jaarons-econ.github.io
+module github.com/josh-aarons/josh-aarons.github.io
 
 go 1.25.6
 
