@@ -10,7 +10,7 @@ title = "Joshua Aarons"
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  # description = "My personal website"
+  description = "oshua Aarons — PhD candidate in Economics at UC San Diego. Specalties in environmental, labor, and public economics."
 
 [params.author]
   name = "Joshua Aarons"
